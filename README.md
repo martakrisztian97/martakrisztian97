@@ -6,7 +6,7 @@
 Here are some ideas to get you started:
 -->
 
-- 👋 Hi, I’m @martakrisztian97 from Hungary
+- 👋 Hi, I’m Krisztián Márta from Hungary
 - 🌱 I’m currently learning Java, HTML, CSS, JavaScript
 - 📫 How to reach me: martakrisztian97@gmail.com
 <!--- 🔭 I’m currently working on ...-->
